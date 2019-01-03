@@ -14,7 +14,7 @@ npm init
 # What to do
 once repo is cloned make sure you run the following commands. They are to be run on the root directory of the project.
 
-run:
+in the terminal/command prompt run the command:
 ```
 npm install selenium-webdriver
 ```
