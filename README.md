@@ -9,9 +9,9 @@ node.js V10.15.0 was used and you must have it installed
 # What to do
 once repo is cloned make sure you run the following commands...
   make sure you have run:
-'''
+```
 npm init
-'''
+```
   then run:
 '''
 npm install selenium-webdriver
