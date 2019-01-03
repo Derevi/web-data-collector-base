@@ -6,15 +6,15 @@ this tool serves only as a bare bones base and must eb built up to specify exact
 # Prerequisites
 node.js V10.15.0 was used and you must have it installed
 
-# What to do
-once repo is cloned make sure you run the following commands...
-
-  make sure you have run:
+  make sure you have run the command in the cloned repo:
 ```
 npm init
 ```
 
-  then run:
+# What to do
+once repo is cloned make sure you run the following commands. They are to be run on the root directory of the project.
+
+run:
 ```
 npm install selenium-webdriver
 ```
